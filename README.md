@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [E-Commerce Website](https://github.com/hargun-singh-khera/E-Commerce-Website)
 
-- 🌱 I’m currently learning **Android, Angular, SEO**
+- 🌱 I’m currently learning **Android, Angular, SEO & Java Full Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hargun-singh-khera?tab=repositories](https://github.com/hargun-singh-khera?tab=repositories)
 
