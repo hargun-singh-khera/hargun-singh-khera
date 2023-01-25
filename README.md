@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hargunsinghkhera8@gmail.com**
 
-- 👨‍💻 My live deployed project made using MERN stack can be viewed at [<a href="https://myhosieryshop.netlify.app" target=_blank>https://myhosieryshop.netlify.app</a>]
+- 👨‍💻 My live deployed project made using MERN stack can be viewed at [<a href="https://myhosieryshop.netlify.app" target="blank">https://myhosieryshop.netlify.app</a>]
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hargun-singh-khera&label=Profile%20views&color=0e75b6&style=flat" alt="hargun-singh-khera" /> </p>
 
