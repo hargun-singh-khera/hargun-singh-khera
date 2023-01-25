@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web Developer & Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
-- 🔭 I’m currently working on [E-Commerce Website](https://github.com/hargun-singh-khera/E-Commerce-Website)
+- 🔭 I’m currently working on [E-Commerce Website](https://github.com/hargun-singh-khera/E-Commerce-Website) which can be viewed live at [https://myhosieryshop.netlify.app/]
 
 - 🌱 I’m currently learning **Android, Angular, SEO & Java Full Stack**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hargunsinghkhera8@gmail.com**
 
-- 👨‍💻 My live deployed project made using MERN stack can be viewed at [https://myhosieryshop.netlify.app/]
+- 👨‍💻 My live deployed project made using MERN stack can be viewed live at [https://myhosieryshop.netlify.app/]
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hargun-singh-khera&label=Profile%20views&color=0e75b6&style=flat" alt="hargun-singh-khera" /> </p>
 
