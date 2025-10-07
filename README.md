@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack Web Developer & Android Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
-- 🔭 I’m currently working on [Fashion Shopping Store](https://github.com/hargun-singh-khera/Major-Project-1) which can be viewed live at [[https://myhosieryshop.netlify.app/](https://major-project-1-woad.vercel.app/)]
+- 🔭 I’m currently working on [Fashion Shopping Store](https://github.com/hargun-singh-khera/Major-Project-1) which can be viewed live at [[https://major-project-1-woad.vercel.app/](https://major-project-1-woad.vercel.app/)]
 
 - 🌱 I’m currently learning **Android, Angular, SEO & Java Full Stack**
 
